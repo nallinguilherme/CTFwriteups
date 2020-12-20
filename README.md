@@ -6,5 +6,5 @@ I use this repository to control my ctf to do machines :)
 
 - [x] Vulnversity
 - [x] Metasploit
-- [] Google Dorking
-- [] Advent of Cyber 2
+- [ ] Google Dorking
+- [ ] Advent of Cyber 2
