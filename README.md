@@ -8,3 +8,4 @@ I use this repository to control my ctf to do machines :)
 - [x] Metasploit
 - [ ] Google Dorking
 - [ ] Advent of Cyber 2
+- [x] Hydra Challenge
