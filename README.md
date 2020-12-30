@@ -4,9 +4,11 @@ I use this repository to control my ctf to do machines :)
 
 ## TryHackMe
 
-- [x] Vulnversity
-- [x] Metasploit
-- [ ] Google Dorking
-- [ ] Advent of Cyber 2
-- [x] Hydra Challenge
-- [x] OhSINT
+![My own Profile](https://tryhackme.com/p/presto)
+
+✅ Vulnversity
+✅ Metasploit
+❌ Google Dorking
+❌ Advent of Cyber 2
+✅ Hydra Challenge
+✅ OhSINT
