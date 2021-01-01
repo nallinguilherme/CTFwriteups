@@ -8,7 +8,8 @@ I use this repository to control my ctf to do machines :)
 
 - ✅ Vulnversity
 - ✅ Metasploit
-- ❌ Google Dorking
+- ✅ Google Dorking
 - ❌ Advent of Cyber 2
 - ✅ Hydra Challenge
 - ✅ OhSINT
+- ❌ Kenobi
