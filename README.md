@@ -1,6 +1,6 @@
 # CTFwriteups 📝
 
-I use this repository to control my ctf to do machines :)
+I use this repository to control my ctf to do machines and save my writeups :)
 
 ## TryHackMe
 
